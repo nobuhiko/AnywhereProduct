@@ -1,0 +1,5 @@
+name: どこでも商品表示プラグイン
+code: AnywhereProduct
+version: 0.0.1
+service:
+    - AnywhereProductServiceProvider
